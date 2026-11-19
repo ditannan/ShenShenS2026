@@ -25,6 +25,10 @@ pre code {
   background-image: url("img/mi/pang-mi.png");
 }
 
+.student-mi {
+  background-image: url("img/mi/student-mi.png");
+}
+
 .center {
   text-align: center;
 }
