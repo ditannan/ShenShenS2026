@@ -29,9 +29,10 @@ fig:unnamed-chunk-56
 fig:unnamed-chunk-58
 fig:unnamed-chunk-60
 fig:unnamed-chunk-61
-fig:unnamed-chunk-62
 fig:unnamed-chunk-63
 fig:unnamed-chunk-64
+fig:unnamed-chunk-65
+fig:unnamed-chunk-66
 GuangZhou-20260418
 GuangZhou-20260418-part1
 GuangZhou-20260418-part2
@@ -202,6 +203,12 @@ ChangZhou-20261108-part2
 ChangZhou-20261108-part3
 ChangZhou-20261108-part4
 ChangZhou-20261108-part5
+XiaMen-20261121
+XiaMen-20261121-part1
+XiaMen-20261121-part2
+XiaMen-20261121-part3
+XiaMen-20261121-part4
+XiaMen-20261121-part5
 playlists
 appendix-vcr-2026
 opening-vcr
